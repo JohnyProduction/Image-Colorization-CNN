@@ -211,3 +211,4 @@ train_images/
 test_images/
 output/
 outputs/
+colorization_model.pth
